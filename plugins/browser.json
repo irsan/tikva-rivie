@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "jie.tikvarivie"
+        }
+    }
+}
